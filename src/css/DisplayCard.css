@@ -1,0 +1,21 @@
+@media only screen and (max-width: 768px){
+    #displaycard{
+        display: flow-root;
+        scale: 1;
+        font-size: large;
+    }
+    #displaycard img{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 400px){
+    #displaycard{
+        display: flow-root;
+        scale: 1;
+        font-size: large;
+        width: 64%;
+    }
+    #displaycard img{
+        width: 100%;
+    }   
+}
